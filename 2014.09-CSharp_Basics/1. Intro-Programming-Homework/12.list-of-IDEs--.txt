@@ -1,0 +1,145 @@
+Problem 12.	Development Environments
+Perform a research (e.g. in Google or Wikipedia) and provide a short list with popular 
+development environments (IDEs) like Visual Studio. Write in a text file called “list-of-IDEs.txt” 
+at least five IDEs along with 2-3 sentences about each of them. Use English.
+--------------------------------------------------------------------------------------------------------------------
+
+Development Environment
+A development environment is a collection of procedures and tools for developing, testing and debugging an application or program.
+In software development, the development environment is a set of processes and tools that are used to develop a source code or program.
+-----------------------------------------------------------------------------------------------
+
+What are the most popular IDEs per language?
+/http://programmers.stackexchange.com/questions/5972/what-are-the-most-popular-ides-per-language/
+
+C# - Visual Studio, SharpDevelop
+Java - Eclipse, NetBeans, IDEA
+Objective-C - Xcode
+Delphi - RAD Studio
+Object Pascal - Delphi, Lazarus
+C, C++ - Visual Studio, Vim
+PL/SQL - RapidSQL, Oracle SQLDeveloper
+PHP - Eclipse, NetBeans, Nusphere PHPed
+Actionscript (AS2, AS3) - FlashDevelop
+Flex - Flash Builder 4
+Python - Eclipse, IDLE
+Perl - Padre
+Common Lisp - Lispworks, Emacs
+Ruby - TextMate
+Haskell - Vim
+Fortran - Vim
+Visual Basic - Visual Studio
+-----------------------------------------------------------------------------------------------------------
+
+Microsoft Visual Studio
+Visual Studio products cover languages like C++, C# and VB.NET. 
+
+Visual Studio has an advantage when it comes to programming. This IDE is mostly used by corporate programmers to produce 
+.NET code.
+
+Microsoft Visual Studio offers a multitude of editions for developing, testing, and deploying applications for the web, 
+desktop, mobile, and even game consoles. Advantages: Intellisense /When you start programming in Visual Studios IDE you will 
+notice a suggestion box will appear when you start typing anything within the IDE, this is to notify the user what methods 
+and functions are available./, Automatic code formatting, Extensibility, Compiles Code.
+
+Languages Supported: Ajax, ASP.NET, XAML, JavaScript, dynamic HTML, DHTML, Visual Basic, Visual C#, Visual C++, Visual F#, JScript
+
+----------------------------------------------------------------------------------------------------------------
+Netbeans
+Netbeans is extremely extensible via its plugin-centric design, allowing you to add additional language syntax support and libraries,
+among other things. Netbeans is free.
+
+An intuitive, drag-and-drop interface with project templates, binary and static libraries, and many useful functions to make 
+your life simpler, NetBeans is a popular IDE for C and C++ projects. It also supports Fortran and Assembler files, with GNU Debugger 
+Integration and code assistance, NetBeans is a functional IDE for editing existing projects, building on templates or building 
+from scratch on most leading platforms. There are also multiple NetBeans Enterprise IDE Download Bundles with options that 
+support several additional technologies, including Java, PHP, HTML5 and more. Advantages: Extensible, Compiles Code, Free. Cons: 
+Bloated /While using this program you may notice that your computer slows down, throws errors in your program that you didn’t 
+know existed etc./
+
+Languages Supported: C, C++, C++11, Java, Fortran, Assembler, Ruby, HTML5, PHP
+
+----------------------------------------------------------------------------------------------------------------
+Eclipse
+Eclipse is another free open source IDE which specializes in heavy Java development. It has almost all the features that 
+an advance IDE needs. Though being specialized in Java it also supports C, C++,Python, using plug-ins. It is built on its 
+own GUI library. Advantages: Language Extensibility, Free, Compiles Code. Cons: Steep Learning Curve /With so much available 
+to upgrade and add on, the learning curve of eclipse will be quite steep./
+
+Languages Supported: C, C++, Python, Perl, PHP, Java, Ruby and more
+
+----------------------------------------------------------------------------------------------------------------
+Code::Blocks
+Code::Blocks is exceptionally lightweight in size, yet still quite functional and feature-rich IDE. Code::Blocks also takes 
+advantage of multi-core compiling. It can be used freely by anyone.
+
+Code::Blocks, an extensible and fully configurable IDE designed to support its users most demanding needs, supports C, C++ 
+and Fortran. It provides a consistent look, feel and operation across all platforms for seamless transitions between work spaces,
+and it’s built around a plug-in framework, providing a multitude of options for extension. It’s open-source and offers cross-platform
+functionality with no hidden costs.
+
+Languages Supported: C, C++, Fortran
+
+----------------------------------------------------------------------------------------------------------------
+CodeLite
+
+An Open-Source, cross-platform IDfor C+ and C++ coding languages, CodeLite works on all major platforms. CodeLite offers a 
+variety of features, including two built-in completion engines, compilers, refactoring, code navigation and more.
+Languages Supported: C, C++
+
+----------------------------------------------------------------------------------------------------------------
+Komodo IDE
+Komodo is a comprehensive IDE that supports all major programming languages, providing a single tool that meets your development 
+needs across the spectrum. Komodo provides a clean, intuitive interface with advanced editing capabilities and integrated tools 
+for the most functionality.  
+
+Languages Supported: Python, PHP, Ruby, Perl, HTML, CSS, JavaScript, C, C++.
+
+----------------------------------------------------------------------------------------------------------------
+Aptana Studio
+If web and scripting languages are more of your style, Aptana is well suited for the task. Even the studio itself is available 
+as a plugin for Eclipse if you prefer the way Aptana handles your work and want to combine it with a more comprehensive IDE. 
+Aptana Studio 3 is free and available solely under the GNU General Public License.
+
+It has the features like code completion ,outlining, JavaScript Debugging, error and warning notification and integrated 
+documentation. Aptana Studio is based on Eclipse and is available as standalone on Windows, Mac & Linux, or as a plug-in for Eclipse
+
+Aptana, recently acquired by Appcelerator, offers one of the most powerful open-source IDEs: Aptana Studo 3. It’s been completely 
+re-built to provide a faster and seamless environment for developing and testing an entire web application using a single 
+environment. Aptana Studio 3 supports all the major browser technology specs, eliminating compatibility and testing challenges 
+to speed your time to deployment.  
+
+Languages Supported: HTML5, CSS3, JavaScript, Ruby, Rails, PHP and Python
+
+---------------------------------------------------------------------------------------------------------------------------------
+kate
+Kate is exactly how the website describes it, a text editor. Not to be looked down upon as it does a lot more than a regular 
+text edit can do and that is what makes this an indispensable product.
+
+Advantages: Uses Linux, Code Folding /there is a small column to the left of the code. Any line that is an opening bracket 
+that column will have an arrow next to it. If you click the arrow it will fold all of the code between the opening and 
+closing brackets. Cons: KDE Overhead /250 Mb of overhead just to use the application. This is not just one package but 
+several packages that are required to be on the system just to start the application/, Doesn’t Compile Code.
+
+----------------------------------------------------------------------------------------------------------------
+gedit
+gedit is the official editor of the gnome desktop and comes installed once the system is setup. Very useful for the user that 
+is casually editing code and not undertaking major projects. This would be a good companion to Netbeans or Eclipse.
+Advantages: Uses Linux, Already Installed on gnome systems, Code Highlighting, Tabbed /This feature allows multiple source 
+packages open at once to jump back and forth between if need be. This is a highly useful when comparing documents and d
+ebugging code. Cons: Doesn’t Compile Code.
+
+---------------------------------------------------------------------------------------------------------------------------
+Sources
+
+http://blog.profitbricks.com/top-integrated-developer-environments-ides/
+http://www.comptalks.com/top-10-ides-available-for-programmers/
+http://programmers.stackexchange.com/questions/5972/what-are-the-most-popular-ides-per-language
+http://www.techrepublic.com/blog/five-apps/five-integrated-development-environment-applications/
+http://hackaday.com/2010/08/24/top-5-integrated-development-environments/
+http://www.techopedia.com/definition/16376/development-environment
+http://en.wikipedia.org/wiki/Comparison_of_integrated_development_environments
+http://wiki.wxwidgets.org/List_of_Integrated_Development_Environments
+http://mashable.com/2010/10/06/ide-guide/
+http://en.wikipedia.org/wiki/Integrated_development_environment
+http://en.wikipedia.org/wiki/Development_environment_%28software_development_process%29

@@ -1,0 +1,6 @@
+C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-1-Fruit-Market\bin\Debug\Problem-1-Fruit-Market.exe.config
+C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-1-Fruit-Market\bin\Debug\Problem-1-Fruit-Market.exe
+C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-1-Fruit-Market\bin\Debug\Problem-1-Fruit-Market.pdb
+C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-1-Fruit-Market\obj\Debug\Problem-1-Fruit-Market.csprojResolveAssemblyReference.cache
+C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-1-Fruit-Market\obj\Debug\Problem-1-Fruit-Market.exe
+C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-1-Fruit-Market\obj\Debug\Problem-1-Fruit-Market.pdb

@@ -1,0 +1,1 @@
+C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\2014.10.04_4\4. Console-Input-Output-Homework\07.SumOf5Numbers\bin\Debug\07.SumOf5Numbers.exe.config

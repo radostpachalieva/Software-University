@@ -1,0 +1,1 @@
+C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\2014.09.27_3\3. Operators-Expressions-and-Statements-Homework\06.Four-DigitNumber\bin\Debug\06.Four-DigitNumber.exe.config

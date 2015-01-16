@@ -1,0 +1,6 @@
+C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-3-The-Explorer\bin\Debug\Problem-3-The-Explorer.exe.config
+C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-3-The-Explorer\bin\Debug\Problem-3-The-Explorer.exe
+C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-3-The-Explorer\bin\Debug\Problem-3-The-Explorer.pdb
+C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-3-The-Explorer\obj\Debug\Problem-3-The-Explorer.csprojResolveAssemblyReference.cache
+C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-3-The-Explorer\obj\Debug\Problem-3-The-Explorer.exe
+C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-3-The-Explorer\obj\Debug\Problem-3-The-Explorer.pdb

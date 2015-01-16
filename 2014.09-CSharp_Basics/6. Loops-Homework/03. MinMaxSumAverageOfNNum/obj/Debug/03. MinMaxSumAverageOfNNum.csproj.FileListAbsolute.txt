@@ -1,0 +1,8 @@
+C:\Users\Radost\Dropbox\SoftUni\2014.09 - C# Basics\2014.10.11_5\6. Loops-Homework\03. MinMaxSumAverageOfNNum\bin\Debug\_03.MinMaxSumAverageOfNNum.exe.config
+C:\Users\Radost\Dropbox\SoftUni\2014.09 - C# Basics\2014.10.11_5\6. Loops-Homework\03. MinMaxSumAverageOfNNum\bin\Debug\_03.MinMaxSumAverageOfNNum.exe
+C:\Users\Radost\Dropbox\SoftUni\2014.09 - C# Basics\2014.10.11_5\6. Loops-Homework\03. MinMaxSumAverageOfNNum\bin\Debug\_03.MinMaxSumAverageOfNNum.pdb
+C:\Users\Radost\Dropbox\SoftUni\2014.09 - C# Basics\2014.10.11_5\6. Loops-Homework\03. MinMaxSumAverageOfNNum\obj\Debug\_03.MinMaxSumAverageOfNNum.exe
+C:\Users\Radost\Dropbox\SoftUni\2014.09 - C# Basics\2014.10.11_5\6. Loops-Homework\03. MinMaxSumAverageOfNNum\obj\Debug\_03.MinMaxSumAverageOfNNum.pdb
+C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\2014.10.18_6\6. Loops-Homework\03. MinMaxSumAverageOfNNum\bin\Debug\_03.MinMaxSumAverageOfNNum.exe.config
+C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\2014.10.18_6\6. Loops-Homework\03. MinMaxSumAverageOfNNum\obj\Debug\_03.MinMaxSumAverageOfNNum.exe
+C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\2014.10.18_6\6. Loops-Homework\03. MinMaxSumAverageOfNNum\obj\Debug\_03.MinMaxSumAverageOfNNum.pdb

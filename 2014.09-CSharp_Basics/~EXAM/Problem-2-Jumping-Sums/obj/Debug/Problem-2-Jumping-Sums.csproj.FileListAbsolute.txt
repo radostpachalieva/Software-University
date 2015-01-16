@@ -1,0 +1,2 @@
+C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-2-Jumping-Sums\bin\Debug\Problem-2-Jumping-Sums.exe.config
+C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-2-Jumping-Sums\obj\Debug\Problem-2-Jumping-Sums.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-1-Work-Hours\bin\Debug\Problem-1-Work-Hours.exe.config
+C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-1-Work-Hours\bin\Debug\Problem-1-Work-Hours.exe
+C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-1-Work-Hours\bin\Debug\Problem-1-Work-Hours.pdb
+C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-1-Work-Hours\obj\Debug\Problem-1-Work-Hours.csprojResolveAssemblyReference.cache
+C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-1-Work-Hours\obj\Debug\Problem-1-Work-Hours.exe
+C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-1-Work-Hours\obj\Debug\Problem-1-Work-Hours.pdb

@@ -1,0 +1,7 @@
+C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-1\bin\Debug\Problem-1.exe.config
+C:\Users\Radost\Desktop\C# Basics (Sept 2014)\Exams\~EXAM\Problem-1\bin\Debug\Problem-1.exe.config
+C:\Users\Radost\Desktop\C# Basics (Sept 2014)\Exams\~EXAM\Problem-1\bin\Debug\Problem-1.exe
+C:\Users\Radost\Desktop\C# Basics (Sept 2014)\Exams\~EXAM\Problem-1\bin\Debug\Problem-1.pdb
+C:\Users\Radost\Desktop\C# Basics (Sept 2014)\Exams\~EXAM\Problem-1\obj\Debug\Problem-1.csprojResolveAssemblyReference.cache
+C:\Users\Radost\Desktop\C# Basics (Sept 2014)\Exams\~EXAM\Problem-1\obj\Debug\Problem-1.exe
+C:\Users\Radost\Desktop\C# Basics (Sept 2014)\Exams\~EXAM\Problem-1\obj\Debug\Problem-1.pdb

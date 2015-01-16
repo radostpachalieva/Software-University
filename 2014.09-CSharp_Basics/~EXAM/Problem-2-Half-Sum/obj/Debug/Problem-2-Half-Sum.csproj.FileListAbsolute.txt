@@ -1,0 +1,18 @@
+C:\Users\Radost\Dropbox\SoftUni\Exams\EXAM\Problem-2-Half-Sum\bin\Debug\Problem-2-Half-Sum.exe.config
+C:\Users\Radost\Dropbox\SoftUni\Exams\EXAM\Problem-2-Half-Sum\bin\Debug\Problem-2-Half-Sum.exe
+C:\Users\Radost\Dropbox\SoftUni\Exams\EXAM\Problem-2-Half-Sum\bin\Debug\Problem-2-Half-Sum.pdb
+C:\Users\Radost\Dropbox\SoftUni\Exams\EXAM\Problem-2-Half-Sum\obj\Debug\Problem-2-Half-Sum.csprojResolveAssemblyReference.cache
+C:\Users\Radost\Dropbox\SoftUni\Exams\EXAM\Problem-2-Half-Sum\obj\Debug\Problem-2-Half-Sum.exe
+C:\Users\Radost\Dropbox\SoftUni\Exams\EXAM\Problem-2-Half-Sum\obj\Debug\Problem-2-Half-Sum.pdb
+C:\Users\Radost\Dropbox\SoftUni\Exams\~EXAM\Problem-2-Half-Sum\bin\Debug\Problem-2-Half-Sum.exe.config
+C:\Users\Radost\Dropbox\SoftUni\Exams\~EXAM\Problem-2-Half-Sum\obj\Debug\Problem-2-Half-Sum.exe
+C:\Users\Radost\Dropbox\SoftUni\Exams\~EXAM\Problem-2-Half-Sum\obj\Debug\Problem-2-Half-Sum.pdb
+C:\Users\Radost\Dropbox\SoftUni\Exams\~EXAM\Problem-2-Half-Sum\bin\Debug\Problem-2-Half-Sum.exe
+C:\Users\Radost\Dropbox\SoftUni\Exams\~EXAM\Problem-2-Half-Sum\bin\Debug\Problem-2-Half-Sum.pdb
+C:\Users\Radost\Dropbox\SoftUni\Exams\~EXAM\Problem-2-Half-Sum\obj\Debug\Problem-2-Half-Sum.csprojResolveAssemblyReference.cache
+C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-2-Half-Sum\bin\Debug\Problem-2-Half-Sum.exe.config
+C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-2-Half-Sum\obj\Debug\Problem-2-Half-Sum.exe
+C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-2-Half-Sum\obj\Debug\Problem-2-Half-Sum.pdb
+C:\Users\Radost\Desktop\C# Basics (Sept 2014)\Exams\~EXAM\Problem-2-Half-Sum\bin\Debug\Problem-2-Half-Sum.exe.config
+C:\Users\Radost\Desktop\C# Basics (Sept 2014)\Exams\~EXAM\Problem-2-Half-Sum\obj\Debug\Problem-2-Half-Sum.exe
+C:\Users\Radost\Desktop\C# Basics (Sept 2014)\Exams\~EXAM\Problem-2-Half-Sum\obj\Debug\Problem-2-Half-Sum.pdb

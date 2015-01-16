@@ -1,0 +1,9 @@
+C:\Users\Radost\Dropbox\SoftUni\2014.09 - C# Basics\2014.10.11_5\6. Loops-Homework\01. NumbersFrom1toN\bin\Debug\_01.NumbersFrom1toN.exe.config
+C:\Users\Radost\Dropbox\SoftUni\2014.09 - C# Basics\2014.10.11_5\6. Loops-Homework\01. NumbersFrom1toN\bin\Debug\_01.NumbersFrom1toN.exe
+C:\Users\Radost\Dropbox\SoftUni\2014.09 - C# Basics\2014.10.11_5\6. Loops-Homework\01. NumbersFrom1toN\bin\Debug\_01.NumbersFrom1toN.pdb
+C:\Users\Radost\Dropbox\SoftUni\2014.09 - C# Basics\2014.10.11_5\6. Loops-Homework\01. NumbersFrom1toN\obj\Debug\01. NumbersFrom1toN.csprojResolveAssemblyReference.cache
+C:\Users\Radost\Dropbox\SoftUni\2014.09 - C# Basics\2014.10.11_5\6. Loops-Homework\01. NumbersFrom1toN\obj\Debug\_01.NumbersFrom1toN.exe
+C:\Users\Radost\Dropbox\SoftUni\2014.09 - C# Basics\2014.10.11_5\6. Loops-Homework\01. NumbersFrom1toN\obj\Debug\_01.NumbersFrom1toN.pdb
+C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\2014.10.18_6\6. Loops-Homework\01. NumbersFrom1toN\bin\Debug\_01.NumbersFrom1toN.exe.config
+C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\2014.10.18_6\6. Loops-Homework\01. NumbersFrom1toN\obj\Debug\_01.NumbersFrom1toN.exe
+C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\2014.10.18_6\6. Loops-Homework\01. NumbersFrom1toN\obj\Debug\_01.NumbersFrom1toN.pdb

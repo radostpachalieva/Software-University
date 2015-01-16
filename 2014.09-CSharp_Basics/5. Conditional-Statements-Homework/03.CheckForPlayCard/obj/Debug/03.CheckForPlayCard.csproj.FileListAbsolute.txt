@@ -1,0 +1,1 @@
+C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\2014.10.11_5\5. Conditional-Statements-Homework\03.CheckForPlayCard\bin\Debug\03.CheckForPlayCard.exe.config

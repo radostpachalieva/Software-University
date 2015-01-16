@@ -1,0 +1,6 @@
+C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-2-Tribunacci\bin\Debug\Problem-2-Tribunacci.exe.config
+C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-2-Tribunacci\bin\Debug\Problem-2-Tribunacci.exe
+C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-2-Tribunacci\bin\Debug\Problem-2-Tribunacci.pdb
+C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-2-Tribunacci\obj\Debug\Problem-2-Tribunacci.csprojResolveAssemblyReference.cache
+C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-2-Tribunacci\obj\Debug\Problem-2-Tribunacci.exe
+C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-2-Tribunacci\obj\Debug\Problem-2-Tribunacci.pdb

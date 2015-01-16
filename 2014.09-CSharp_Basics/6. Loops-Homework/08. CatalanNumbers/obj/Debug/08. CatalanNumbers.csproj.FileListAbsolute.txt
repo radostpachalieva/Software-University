@@ -1,0 +1,6 @@
+C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\2014.10.18_6\6. Loops-Homework\08. CatalanNumbers\bin\Debug\_08.CatalanNumbers.exe.config
+C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\2014.10.18_6\6. Loops-Homework\08. CatalanNumbers\bin\Debug\_08.CatalanNumbers.exe
+C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\2014.10.18_6\6. Loops-Homework\08. CatalanNumbers\bin\Debug\_08.CatalanNumbers.pdb
+C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\2014.10.18_6\6. Loops-Homework\08. CatalanNumbers\obj\Debug\08. CatalanNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\2014.10.18_6\6. Loops-Homework\08. CatalanNumbers\obj\Debug\_08.CatalanNumbers.exe
+C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\2014.10.18_6\6. Loops-Homework\08. CatalanNumbers\obj\Debug\_08.CatalanNumbers.pdb

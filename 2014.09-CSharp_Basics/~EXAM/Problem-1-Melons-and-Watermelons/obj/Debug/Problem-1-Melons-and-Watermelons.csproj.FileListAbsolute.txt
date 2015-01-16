@@ -1,0 +1,5 @@
+C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-1-Melons-and-Watermelons\bin\Debug\Problem-1-Melons-and-Watermelons.exe.config
+C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-1-Melons-and-Watermelons\bin\Debug\Problem-1-Melons-and-Watermelons.exe
+C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-1-Melons-and-Watermelons\bin\Debug\Problem-1-Melons-and-Watermelons.pdb
+C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-1-Melons-and-Watermelons\obj\Debug\Problem-1-Melons-and-Watermelons.exe
+C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-1-Melons-and-Watermelons\obj\Debug\Problem-1-Melons-and-Watermelons.pdb

@@ -1,0 +1,1 @@
+C:\Users\Radost\Desktop\7. CSharp-Advanced-Topics-Homework\7. CSharp-Advanced-Topics-Homework\02. PrimeChecker\bin\Debug\_02.PrimeChecker.exe.config

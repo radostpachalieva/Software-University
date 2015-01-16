@@ -1,0 +1,2 @@
+C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-1-Inside-the-Building\bin\Debug\Problem-1-Inside-the-Building.exe.config
+C:\Users\Radost\Desktop\C# Basics (Sept 2014)\Exams\~EXAM\Problem-1-Inside-the-Building\bin\Debug\Problem-1-Inside-the-Building.exe.config

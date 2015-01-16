@@ -1,0 +1,6 @@
+C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-1-Exam-Schedule\bin\Debug\Problem-1-Exam-Schedule.exe.config
+C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-1-Exam-Schedule\bin\Debug\Problem-1-Exam-Schedule.exe
+C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-1-Exam-Schedule\bin\Debug\Problem-1-Exam-Schedule.pdb
+C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-1-Exam-Schedule\obj\Debug\Problem-1-Exam-Schedule.csprojResolveAssemblyReference.cache
+C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-1-Exam-Schedule\obj\Debug\Problem-1-Exam-Schedule.exe
+C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-1-Exam-Schedule\obj\Debug\Problem-1-Exam-Schedule.pdb

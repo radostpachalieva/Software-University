@@ -1,0 +1,5 @@
+C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-3-House-with-a-Window\bin\Debug\Problem-3-House-with-a-Window.exe.config
+C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-3-House-with-a-Window\bin\Debug\Problem-3-House-with-a-Window.exe
+C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-3-House-with-a-Window\bin\Debug\Problem-3-House-with-a-Window.pdb
+C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-3-House-with-a-Window\obj\Debug\Problem-3-House-with-a-Window.exe
+C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-3-House-with-a-Window\obj\Debug\Problem-3-House-with-a-Window.pdb

@@ -1,0 +1,78 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link href="02-Flight-Order.css" type="text/css" rel="stylesheet" />
+</head>
+<body>
+    <h1>Flight order</h1>
+    <main>
+        <form>
+            <fieldset>
+                <label for="from-city">From</label>
+                <select name="from-city" id="from-city" autofocus="true">
+                    <option>enter a city</option>
+                    <option>Sofia</option>
+                    <option>Plovdiv</option>
+                    <option>Varna</option>
+                    <option>Bourgas</option>
+                </select>
+                <div class="departDateDiv">
+                    <label for="departDate">Departure Date</label>
+                    <input type="date" id="departDate" value="2014.06.09" required="true" />
+                </div>
+                <div>
+                    <label for="returnDate">Return Date</label>
+                    <input type="date" id="returnDate" value="2014.06.09" required="true" />
+                </div>
+                <div class="numbers">
+                    <div>
+                        <label>12+</label>
+                        <input type="number" value="0" required="true" />
+                    </div>
+                    <div>
+                        <label>2-12</label>
+                        <input type="number" value="0" required="true" />
+                    </div>
+                    <div>
+                        <label>0-2</label>
+                        <input type="number" value="0" required="true" />
+                    </div>
+                </div>
+            </fieldset>
+
+            <fieldset>
+                <label for="to-city">To</label>
+                <select name="to-city" id="to-city" autofocus="true">
+                    <option>enter a city</option>
+                    <option>Sofia</option>
+                    <option>Plovdiv</option>
+                    <option>Varna</option>
+                    <option>Bourgas</option>
+                </select>
+                <div>
+                    <input name="direct" class="direct" type="checkbox" id="direct" />
+                    <label for="direct" class="direct">Prefer direct</label>
+                </div>
+                <div>
+                    <label for="time-interval">Time interwal</label>
+                    <input type="time" class="time-interval" value="00:20" required="true" />
+                    <input type="time" class="time-interval" value="05:00" required="true" />
+                </div>
+                <div>
+                    <label for="time-interval">Time interwal</label>
+                    <input type="time" class="time-interval" value="16:00" required="true" />
+                    <input type="time" class="time-interval" value="22:00" required="true" />
+                </div>
+                <label for="class">Choose class</label>
+                <select name="class" id="class" autofocus="true">
+                    <option>Economy</option>
+                    <option>Business</option>
+                </select>
+                <div><input class="search" type="button" value="Search" /></div>
+            </fieldset>
+        </form>
+    </main>
+</body>
+</html>

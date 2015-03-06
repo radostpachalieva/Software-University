@@ -1,0 +1,107 @@
+﻿<!DOCTYPE html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link href="03-Form.css" type="text/css" rel="stylesheet" />
+
+</head>
+<body>
+    <main>
+        <form method="get">
+            <fieldset>
+                <legend>Step 1: Your details</legend>
+                <div class="input-box">
+                    <label for="nameInput">Name</label>
+                    <input id="nameInput"
+                           type="text"
+                           required="true"
+                           placeholder="First and last name"
+                           title="Plese enter valid first and last name" />
+                </div>
+                <br />
+                <div class="input-box">
+                    <label for="emailInput">Email</label>
+                    <input id="emailInput"
+                           type="email"
+                           required="true"
+                           pattern="[a-zA-Z0-9_]{3,}@[a-zA-Z0-9_]{3,}.[a-zA-Z0-9_]{2,4}"
+                           placeholder="example@domain.com"
+                           title="Please enter a valid email address" />
+                </div>
+                <br />
+                <div class="input-box">
+                    <label for="telInput">Phone</label>
+                    <input id="telInput"
+                           type="tel"
+                           required="true"
+                           pattern="\+[0-9]{12}"
+                           placeholder="eg. +447500000000"
+                           title="Please use the format: +447500000000" />
+                </div>
+                <br />
+            </fieldset>
+        </form>
+        <form method="get">
+            <fieldset>
+                <legend>Step 2: Delivery address</legend>
+                <div class="input-box">
+                    <label class="address" for="addressInput">Address</label>
+                    <textarea name="terms" cols="23" rows="5"></textarea>
+                </div>
+                <br />
+                <div class="input-box">
+                    <label for="postInput">Post code</label>
+                    <input id="postInput"
+                           type="text"
+                           required="true" />
+                </div>
+                <br />
+                <div class="input-box">
+                    <label for="countryInput">Country</label>
+                    <input id="countrylInput"
+                           type="text"
+                           required="true" />
+                </div>
+                <br />
+            </fieldset>
+        </form>
+        <form method="get">
+            <fieldset>
+                <legend>Step 3: Card details</legend>
+                <div class="input-box">
+                    <label class="typeCard" for="typeInput">Card type</label>
+
+                    <input name="CardType" type="radio" id="visa" value="visa" />
+                    <label class="inline" for="visa">VISA</label>
+                    <input name="CardType" type="radio" id="amex" value="amex" />
+                    <label class="inline" for="amex">AmEx</label>
+                    <input name="CardType" type="radio" id="mastercard" value="mastercard" />
+                    <label class="inline" for="mastercard">Mastercard</label>
+
+                </div>
+                <br />
+                <div class="input-box">
+                    <label for="numInput">Card number</label>
+                    <input id="numInput"
+                           required="true" />
+                </div>
+                <br />
+                <div class="input-box">
+                    <label for="securityInput">Security code</label>
+                    <input id="securitylInput"
+                           required="true" />
+                </div>
+                <br />
+                <div class="input-box">
+                    <label for="nameCardInput">Name on card</label>
+                    <input id="nameCardInput"
+                           type="text"
+                           required="true"
+                           placeholder="exact name as on the card" />
+                </div>
+            </fieldset>
+        </form>
+        <input class="submit-btn" type="submit" value="BUY IT!" />
+    </main>
+</body>
+</html>

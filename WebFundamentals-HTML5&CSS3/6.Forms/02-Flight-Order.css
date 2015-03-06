@@ -1,0 +1,75 @@
+﻿@import "reset.css";
+
+body {
+    font-family: Verdana,Geneva,sans-serif;
+    background-color: pink;
+}
+
+main {
+    margin: 1% 6%;
+    display: flex;
+}
+
+h1 {
+    display: block;
+    margin-left: 120px;
+    font-size: 2em;
+    text-transform: uppercase;
+    font-style: italic;
+    font-weight: bold;
+}
+
+fieldset {
+    display: inline-block;
+    vertical-align: top;
+    width: 184px;
+}
+
+label {
+    display: block;
+    width: 120px;
+    font-style: italic;
+    font-size: 0.6em;
+    margin: 10px 0 5px 0;
+}
+
+.numbers div {
+    display: inline-block;
+}
+
+.numbers label {
+    display: block;
+    width: 40px;
+    font-style: italic;
+}
+
+.numbers input {
+    display: block;
+    width: 53px;
+}
+
+.direct {
+    display: inline-block;
+}
+
+select {
+    width: 180px;
+}
+
+.time-interval {
+    width: 82px;
+}
+
+.departDateDiv {
+    margin-top: 35px;
+}
+
+#returnDate, #departDate {
+    width: 176px;
+}
+
+.search {
+    margin-top: 6px;
+    padding: 4px;
+    width: 180px;
+}

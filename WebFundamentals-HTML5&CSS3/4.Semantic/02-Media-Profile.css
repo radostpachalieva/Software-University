@@ -1,0 +1,59 @@
+﻿/*@import "reset.css";*/
+body{
+    font-size: 1.8em;
+    font-family: Calibri;
+}
+
+main {
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+    background-color: pink;
+    border-radius: 10px;
+}
+
+content {
+    display: flex;
+}
+
+h1 {
+    text-align: center;
+    font-size: 1.8em;
+    font-weight: bold;
+}
+
+section {
+    flex-grow: 1;
+    flex-wrap: wrap;
+    padding:1%;
+}
+
+section:last-of-type {
+    flex-grow: 7;
+    flex-wrap: wrap;
+    padding:1%;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+meter {
+    width: 100px;
+    margin: 2%;
+}
+
+audio {
+    display: block;
+    margin: 1% 0;
+    width: 100%    !important;
+}
+
+video {
+    display: block;
+    margin: 1% 0;
+    width: 100%    !important;
+    height: auto   !important;
+}

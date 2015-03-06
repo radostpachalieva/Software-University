@@ -1,0 +1,45 @@
+﻿@import "reset.css";
+
+body {
+    background: #000;
+    width: auto;
+    font-family: Lucida Grande,Lucida Sans Unicode,Lucida Sans,Geneva,Verdana,sans-serif;
+}
+
+header {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2%;
+    width: 70%;
+}
+
+h1 {
+    font-size: 3em;
+    font-weight: bold;
+    color: yellow;
+}
+
+iframe {
+    width: 70%;
+    height: 400px;
+    margin: 1% 15%;
+}
+
+img {
+    float: left;
+    height: 300px;
+    width: 500px;
+    border: 1px solid #ffd800;
+    margin: 0 2% 0 0;
+}
+
+li {
+    margin: 10px 0 0 0;
+}
+
+a {
+    font-size: 2.4em;
+    font-style: italic;
+    color: #fff;
+    text-decoration: none;
+}

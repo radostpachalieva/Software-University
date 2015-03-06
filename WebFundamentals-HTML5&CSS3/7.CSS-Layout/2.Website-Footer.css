@@ -1,0 +1,86 @@
+@import "reset.css";
+
+section{
+    width: auto;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    font-size: 0.8rem;
+    padding: 3% 2%;
+	box-sizing: border-box;
+	background-color: #234465;
+	font-family: Tahoma;
+}
+
+div{
+    vertical-align: top;
+    padding: 1%;
+}
+
+
+.first-col{
+
+    flex-grow: 2;
+}
+
+.first-col input{
+    display: block;
+    width: 150px;
+    height: 35px;
+    font-size: 0.8rem;
+    margin: 0 15%;
+    background: none;
+    color: #ffffff;
+    border: 2px solid #FFA000;
+    border-radius: 1px;
+}
+
+.first-col input:hover{
+    background-color: #FFA000;
+}
+
+.first-col input:first-child {
+    margin-bottom: 3%;
+}
+
+.second-col{
+    flex-grow: 1;
+}
+
+.third-col{
+    flex-grow: 1;
+}
+
+.fourth-col{
+    flex-grow: 2;
+}
+
+
+.fifth-col{
+    flex-grow: 3;
+}
+
+.fb-like-box{
+    background-color: #E9ECEF;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 5%;
+}
+
+ul, li, a, p{
+	list-style: none;
+	text-decoration: none;
+	color: #fff;
+	font-weight: lighter;
+}
+div h2 a{
+    color: #FFA000;
+    font-size: 1rem;
+    text-transform: uppercase;
+}
+div h2{
+    margin-bottom: 10%;
+}

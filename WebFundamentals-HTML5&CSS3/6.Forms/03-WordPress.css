@@ -1,0 +1,35 @@
+﻿@import "reset.css";
+
+main {
+    margin: 5% 20%;
+    width: 400px;
+    height: auto;
+}
+
+img {
+    max-width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    margin: 2% 0;
+}
+
+form{
+    display: inline-block;
+}
+
+form div img{
+    height: 26px;
+    width: 26px;
+    margin: 6px;
+    vertical-align: middle;
+}
+
+/*.input-field:after{
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+content: url('Wordpress.jpg');
+}*/

@@ -1,0 +1,170 @@
+﻿body {
+    font-family: Helvetica, sans-serif;
+}
+
+#small {
+    display: inline-block;
+    border: solid 2px #A9AAAA;
+    background-color: #A9AAAA;
+    opacity: 0.8;
+    border-radius: 20px;
+    width: 30px;
+    height: 30px;
+    margin: auto;
+    position: absolute;
+    left: 775px;
+    top: 241px;
+}
+
+    #small div {
+        display: inline-block;
+        border: dashed;
+        border-color: white;
+        border-radius: 20px;
+        width: 18px;
+        height: 18px;
+        background-color: #A9AAAA;
+        position: absolute;
+        left: 3px;
+        top: 3px;
+    }
+
+#big {
+    display: inline-block;
+    border: solid 2px #A9AAAA;
+    background-color: #A9AAAA;
+    opacity: 0.8;
+    border-radius: 60px;
+    width: 42px;
+    height: 42px;
+    margin: auto;
+    position: absolute;
+    left: 820px;
+    top: 182px;
+
+}
+
+    #big div {
+        display: inline-block;
+        border: dashed;
+        border-color: white;
+        border-radius: 60px;
+        width: 30px;
+        height: 30px;
+        background-color: #A9AAAA;
+        position: absolute;
+        left: 3px;
+        top: 3px;
+    }
+
+    #cool {
+    display: inline-block;
+    border: solid 2px #A9AAAA;
+    background-color: #A9AAAA;
+    opacity: 0.8;
+    border-radius: 40px;
+    width: 142px;
+    height: 78px;
+    position: absolute;
+    left: 890px;
+    top: 110px;
+}
+
+    #cool div {
+        display: inline-block;
+        border: dashed;
+        border-color: white;
+        border-radius: 40px;
+        width: 130px;
+        height: 66px;
+        background-color: #A9AAAA;
+        position: absolute;
+        left: 3px;
+        top: 3px;
+    }
+
+    #cool div p{
+        margin: 6px 0;
+        padding:0;
+        font-size:1.3em;
+        color: white;
+        text-align: center; 
+        font-weight: 600;
+    }
+
+#first-border {
+    width: 800px;
+    height: 280px;
+    margin: 5% 10%;
+    border-top: solid 10px yellow;
+    border-top-style: dotted;
+    border-right: solid 10px green;
+    border-bottom: solid 10px blue;
+    border-bottom-style: double;
+    border-left: solid 10px red;
+    border-left-style: dashed;
+    box-shadow: 20px 20px 7px #404040;
+}
+
+h1 {
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: normal;
+    font-size: 3.2em;
+    margin: 2%;
+    padding: 0;
+    text-shadow: 12px 12px 14px #909090;
+}
+
+main {
+    text-align: center;
+    margin: 4% auto 4% auto;
+    width: 700px;
+    height: 200px;
+}
+
+    main div div div div div {
+        font-size: 1.7em;
+        text-shadow: 10px 10px 20px #909090;
+        margin: 20px auto 24px auto;
+    }
+
+    main span {
+        font-size: 1.3em;
+        background-color: #D8921A;
+        border-top: solid 4px #FFA500;
+        border-right: solid 4px #AB6E00;
+        border-bottom: solid 4px #AB6E00;
+        border-left: solid 4px #FFA500;
+        padding: 2px 24px;
+        margin: 2px;
+    }
+
+#blue {
+    border: solid 3px blue;
+    margin: 0;
+    padding: 0;
+    border-radius: 300px;
+}
+
+#green {
+    border: solid 3px green;
+    margin: 0;
+    padding: 0;
+    border-radius: 300px;
+}
+
+#yellow {
+    border: solid 3px yellow;
+    margin: 0;
+    padding: 0;
+    border-radius: 300px;
+}
+
+#red {
+    border: solid 3px red;
+    margin: 0;
+    padding: 0;
+    border-radius: 300px;
+    height: 124px;
+}

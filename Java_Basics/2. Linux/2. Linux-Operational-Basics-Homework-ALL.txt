@@ -1,0 +1,82 @@
+
+Homework: Linux Operational Basics Part 1
+This document defines homework assignments from the “Java Basics“ Course @ Software University. Please submit
+as homework a single zip / rar / 7z archive holding the solution of ONLY ONE of the below described problems.
+
+-----------------------------------------------------------------------------------------------------
+Problem 1. Device File for SD Cards
+What is the name of the device file for SD cards?
+
+SD Card device driver is linux/drivers/mmc/host/esdhc.c.
+
+ SD/MMC
+
+Location of the driver
+
+    linux/drivers/mmc/host/dw_mmc.c
+    linux/drivers/mmc/host/dw_mmc.h
+    linux/drivers/mmc/host/dw_mmc-pltfm.c
+    linux/drivers/mmc/host/dw_mmc-pltfm.h 
+
+
+ SD/MMC
+
+Location of the driver
+
+    u-boot/drivers/mmc/dw_mmc.c 
+
+Configuration macros
+
+    Through macros defined at include/configs/socfpga_cyclone5.h
+        CONFIG_MMC
+        CONFIG_SDMMC_BASE
+        CONFIG_SDMMC_HOST_HS
+        CONFIG_GENERIC_MMC
+        CONFIG_DW_MMC 
+    Through handoff info provided by tools
+        CONFIG_HPS_CLK_SDMMC_HZ (from board/altera/socfpga_cyclone5/pll_config.h)
+        CONFIG_HPS_SDMMC_BUSWIDTH(from board/altera/socfpga_cyclone5/pinmux_config.h) 
+
+Supported features
+
+    Read and write support
+    Support SDHC, SD High Speed (not validated) and MMC (not validated) 
+
+------------------------------------------------------------------------------------------------------------------------
+Problem 2. Linux File Systems That Work With Memory
+List at least 3 Linux file systems, specifically developed to work with memory (SD cards, USB drives, SSD disks).
+
+5. Избройте няколко (минимум 3) Linux файлови системи специално разработени за работа с памет(SD Cards, USB Drives, SSD disks)
+
+Linux flash filesystems
+
+JFFS / JFFS2 / YAFFS 
+UBIFS
+LogFS
+F2FS
+
+=====================================================================
+Sources:
+http://en.wikipedia.org/wiki/Flash_file_system#Linux_flash_filesystems
+http://en.wikipedia.org/wiki/List_of_file_systems#File_systems_optimized_for_flash_memory.2C_solid_state_media
+
+
+-----------------------------------------------------------------------------------------------------------------------
+Problem 3. Command for Mounting Windows
+What is the command for mounting Windows file system, so that all files belong to a single user?
+
+http://www.cyberciti.biz/tips/how-to-mount-remote-windows-partition-windows-share-under-linux.html
+
+Execute mount command with -a option to mount all the /etc/fstab entries.
+
+# mount -a
+
+
+----------------------------------------------------------------------------------------------------------------------
+Problem 6. Find and Rename
+Write the command line for finding all files in a specific directory that end with “.c” and renaming them to end with
+“.cpp” (with the command find).
+
+
+amaurea@amaurea:~$ cd Desktop/
+amaurea@amaurea:~/Desktop$ rename 's/\.c$/\.cpp/' *.c

@@ -1,0 +1,34 @@
+﻿@font-face {
+    font-family: "Hawaii";
+    src: url("resources/Animated.ttf");
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-family: Hawaii;
+    font-size: 3em;
+    font-stretch: ultra-condensed;
+    text-transform: uppercase;
+    text-align: right;
+    color: orange;
+    padding-top: 1%;
+    padding-right: 2%;
+}
+
+div {
+    border: solid 1px red;
+    width: 900px;
+    height: 600px;
+    background: url("resources/AlexHula.png") no-repeat 75% 90%, 
+        url("resources/VladoKHula.png") no-repeat 99% 90%, 
+        url("resources/NakovHula.png") no-repeat 61% 80%, 
+        url("resources/TediHula.png") no-repeat 33% 98%, 
+        url("resources/PetiaHula.png") no-repeat 25% 88%, 
+        url("resources/VladoGHula.png") no-repeat 5% 90%, 
+        url("resources/HawaiiBackground.png") no-repeat, 
+        radial-gradient(at 20% 20%, #FFFEC9 10%, #fff 15%, #0073E0);
+}

@@ -1,0 +1,137 @@
+﻿@import "reset.css";
+
+body {
+    font-family: Verdana,Geneva,sans-serif;
+    width: 640px;
+    height: 260px;
+    background-color: #EEEEEE;
+    padding: 5% 20%;
+}
+
+header {
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-size: 1.6em;
+    font-weight: bold;
+    color: #234465;
+    margin: 1% 0 2% 0;
+}
+
+p {
+    font-size: 0.7em;
+    color: #7F7F7F;
+}
+
+legend {
+    text-transform: uppercase;
+    font-size: 0.9em;
+    font-weight: bold;
+    color: white;
+    margin-bottom: 6px;
+}
+
+.register {
+    color: #234465;
+}
+
+.new {
+    color: #666666;
+}
+
+content {
+    display: flex;
+    justify-content: space-between;
+    width: 640px;
+    height: 260px;
+}
+
+form {
+    width: 318px;
+    padding: 2%;
+}
+
+    form:last-of-type {
+        background-color: #234465;
+    }
+
+        form:last-of-type input {
+            margin: 3% 2% 3% 0;
+            padding: 10px 10px;
+            border: none;
+            border-radius: 2px;
+        }
+
+input {
+    margin: 3% 2% 3% 0;
+    padding: 8px 10px;
+    width: 260px;
+    border: none;
+    border-radius: 2px;
+}
+
+.input-field {
+    display: block;
+}
+
+
+.buttons {
+    display: flex;
+}
+
+.login {
+    width: 160px;
+}
+
+.remember-me p {
+    margin: 0;
+    padding: 0;
+    width: 120px;
+    display: inline-block;
+}
+
+.remember-me input {
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    width: 20px;
+}
+
+.reg-btn {
+    display: inline-block;
+    float: right;
+    margin: 2% 5%;
+    background-color: #EEEEEE;
+    color: #13365A;
+    font-family: Verdana,Geneva,sans-serif;
+    border: solid 1px #234465;
+    width: 200px;
+    border-radius: 0;
+}
+
+.log-btn {
+    display: inline-block;
+    float: right;
+    margin: 0;
+    background-color: #234465;
+    color: white;
+    font-family: Verdana,Geneva,sans-serif;
+    border: solid 1px orange !important;
+    width: 130px;
+    border-radius: 0 !important;
+}
+
+.login {
+    display: inline-block;
+    float: right;
+}
+
+    .login div a {
+        display: inline-block;
+        float: right;
+        margin: 0;
+        color: white;
+        font-family: Verdana,Geneva,sans-serif;
+        font-size: 0.7em;
+    }

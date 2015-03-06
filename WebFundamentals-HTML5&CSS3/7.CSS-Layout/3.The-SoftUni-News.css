@@ -1,0 +1,86 @@
+@import "reset.css";
+
+body{
+    background-color: #E9ECEF;
+    font-family: 'PT Sans', Tahoma, Arial, sans-serif;
+    font-size: 1rem;
+}
+
+section{
+    /*display: inline-block;*/
+    width: 80%;
+    margin: 0 auto;
+    /*border: solid 1px red;*/
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-flow: row wrap;
+}
+h2 a{
+    display: block;
+    margin: 2% 0 1% 12%;
+    text-decoration: none;
+    font-size: 1.4rem;
+    color: #234465;
+}
+
+article{
+    box-sizing: border-box;
+    display: block;
+    width: 30%;
+    height: 380px;
+    margin: auto;
+    padding: 2%;
+    background-color: white;
+    box-shadow: 0px 0px 5px #777777;
+    /*border: solid 1px orangered;*/
+}
+
+header{
+    height: 14%;
+}
+
+header a{
+    font-size: 1rem;
+    font-weight: bold;
+    color: #234465;
+}
+
+time{
+    /*align-self: flex-end;*/
+    display: block;
+    text-align: right;
+    margin: 3% 5%;
+    font-size: 0.9rem;
+    color: #202020;
+}
+
+.autor{
+    display: block;
+    width: 100%;
+    padding-bottom: 6%;
+    font-size: 0.8rem;
+    color: #808080;
+    border-bottom: solid 1px #E9ECEF;
+}
+
+/*img{*/
+    /*padding-top: 3%;*/
+/*}*/
+
+p{
+    display: block;
+    padding: 5% 0;
+    border-bottom: solid 1px #E9ECEF;
+    font-size: 0.8rem;
+    color: #808080;
+}
+
+.tags{
+    padding: 5% 0;
+    font-size: 0.8rem;
+    color: #808080;
+}
+

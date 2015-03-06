@@ -1,0 +1,11 @@
+Homework: Linux Operational Basics Part 1
+This document defines homework assignments from the “Java Basics“ Course @ Software University. Please submit
+as homework a single zip / rar / 7z archive holding the solution of ONLY ONE of the below described problems.
+--------------------------------------------------------------------------------------------------------------
+
+Problem 6. Find and Rename
+Write the command line for finding all files in a specific directory that end with “.c” and renaming them to end with
+“.cpp” (with the command find).
+
+amaurea@amaurea:~$ cd Desktop/
+amaurea@amaurea:~/Desktop$ rename 's/\.c$/\.cpp/' *.c

@@ -1,0 +1,84 @@
+﻿@import "reset.css";
+
+body {
+    font-family: Verdana,Geneva,sans-serif;
+    padding: 2% 0 0 5%;
+    border-radius: 15px;
+}
+
+main {
+    width: 400px;
+    height: 840px;
+    background-image: url('resources/formBackground.jpg');
+    border-radius: 4px;
+    padding: 10px 0;
+}
+
+.input-box {
+    margin: -6px 20px;
+    padding: 3%;
+    background-color: rgba(255, 255, 255, 0.3);
+    border-radius: 4px;
+    border: solid 1px white;
+    font-family: "Arial Narrow",Arial,sans-serif;
+}
+
+fieldset {
+}
+
+legend {
+    color: white;
+    font-size: 1.2em;
+    padding: 15px 20px;
+}
+
+label {
+    text-align: left;
+    width: 100px;
+    display: inline-block;
+}
+
+input {
+    border-radius: 2px;
+    border: none;
+    padding: 6px 5px;
+}
+
+.typeCard{
+    display:block;
+    margin-bottom: 14px;
+}
+
+.inline{
+    text-align: left;
+    width: 80px;
+    display: inline-block;
+}
+
+.submit-btn{
+    color: white;
+    background-color: #04152F;
+    margin-left: 150px;
+    margin-top: 20px;
+    padding: 7px 28px;
+    border-radius: 20px;
+}
+
+.submit-btn:hover{
+    color: #04152F;
+    background-color: white;
+
+}
+
+/*#mastercard:before{
+    content: url("http://www.habibbank.com/media/mastercard-logo.gif");
+
+}
+
+#amex:before{
+    content: url("http://www.rumbo.com/pictures/logo_footer_american_express.gif"); 
+}
+
+#visa:before{
+    content: url("http://www.credit-card-logos.com/images/visa_credit-card-logos/visa_logo_3.gif");
+}*/

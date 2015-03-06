@@ -1,6 +1,0 @@
-C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-1-Cinema\bin\Debug\Problem-1-Cinema.exe.config
-C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-1-Cinema\bin\Debug\Problem-1-Cinema.exe
-C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-1-Cinema\bin\Debug\Problem-1-Cinema.pdb
-C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-1-Cinema\obj\Debug\Problem-1-Cinema.csprojResolveAssemblyReference.cache
-C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-1-Cinema\obj\Debug\Problem-1-Cinema.exe
-C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-1-Cinema\obj\Debug\Problem-1-Cinema.pdb

@@ -1,6 +1,0 @@
-C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-2-Book-Orders\bin\Debug\Problem-2-Book-Orders.exe.config
-C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-2-Book-Orders\bin\Debug\Problem-2-Book-Orders.exe
-C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-2-Book-Orders\bin\Debug\Problem-2-Book-Orders.pdb
-C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-2-Book-Orders\obj\Debug\Problem-2-Book-Orders.csprojResolveAssemblyReference.cache
-C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-2-Book-Orders\obj\Debug\Problem-2-Book-Orders.exe
-C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-2-Book-Orders\obj\Debug\Problem-2-Book-Orders.pdb

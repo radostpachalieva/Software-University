@@ -1,7 +1,0 @@
-C:\Users\Radost\Dropbox\WEB_DropBOX\SoftUni\2014.09 - C# Basics\2014.09.20-Lesson_2\Primitive-Data-Types-and-Variables-Homework\17.Sunglasses\bin\Debug\17.Sunglasses.exe.config
-C:\Users\Radost\Dropbox\WEB_DropBOX\SoftUni\2014.09 - C# Basics\2014.09.20_2\Primitive-Data-Types-and-Variables-Homework\17.Sunglasses\bin\Debug\17.Sunglasses.exe.config
-C:\Users\Radost\Dropbox\WEB_DropBOX\SoftUni\2014.09 - C# Basics\2014.09.20_2\2. Primitive-Data-Types-and-Variables-Homework\17.Sunglasses\bin\Debug\17.Sunglasses.exe.config
-C:\Users\Radost\Dropbox\WEB_DropBOX\SoftUni\2014.09 - C# Basics\2014.09.20_2\2. Primitive-Data-Types-and-Variables-Homework\17.Sunglasses\bin\Debug\17.Sunglasses.exe
-C:\Users\Radost\Dropbox\WEB_DropBOX\SoftUni\2014.09 - C# Basics\2014.09.20_2\2. Primitive-Data-Types-and-Variables-Homework\17.Sunglasses\bin\Debug\17.Sunglasses.pdb
-C:\Users\Radost\Dropbox\WEB_DropBOX\SoftUni\2014.09 - C# Basics\2014.09.20_2\2. Primitive-Data-Types-and-Variables-Homework\17.Sunglasses\obj\Debug\17.Sunglasses.exe
-C:\Users\Radost\Dropbox\WEB_DropBOX\SoftUni\2014.09 - C# Basics\2014.09.20_2\2. Primitive-Data-Types-and-Variables-Homework\17.Sunglasses\obj\Debug\17.Sunglasses.pdb

@@ -1,6 +1,0 @@
-C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-4-Bulls-and-Cows\bin\Debug\Problem-4-Bulls-and-Cows.exe.config
-C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-4-Bulls-and-Cows\bin\Debug\Problem-4-Bulls-and-Cows.exe
-C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-4-Bulls-and-Cows\bin\Debug\Problem-4-Bulls-and-Cows.pdb
-C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-4-Bulls-and-Cows\obj\Debug\Problem-4-Bulls-and-Cows.csprojResolveAssemblyReference.cache
-C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-4-Bulls-and-Cows\obj\Debug\Problem-4-Bulls-and-Cows.exe
-C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-4-Bulls-and-Cows\obj\Debug\Problem-4-Bulls-and-Cows.pdb

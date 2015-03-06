@@ -1,1 +1,0 @@
-C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\2014.09.27_3\3. Operators-Expressions-and-Statements-Homework\12.ExtractBitFromInteger\bin\Debug\12.ExtractBitFromInteger.exe.config

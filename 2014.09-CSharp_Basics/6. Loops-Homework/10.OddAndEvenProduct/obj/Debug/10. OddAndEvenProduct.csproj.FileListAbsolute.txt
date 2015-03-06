@@ -1,6 +1,0 @@
-C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\2014.10.18_6\6. Loops-Homework\10.OddAndEvenProduct\bin\Debug\10.OddAndEvenProduct.exe.config
-C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\2014.10.18_6\6. Loops-Homework\10.OddAndEvenProduct\bin\Debug\10.OddAndEvenProduct.exe
-C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\2014.10.18_6\6. Loops-Homework\10.OddAndEvenProduct\bin\Debug\10.OddAndEvenProduct.pdb
-C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\2014.10.18_6\6. Loops-Homework\10.OddAndEvenProduct\obj\Debug\10. OddAndEvenProduct.csprojResolveAssemblyReference.cache
-C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\2014.10.18_6\6. Loops-Homework\10.OddAndEvenProduct\obj\Debug\10.OddAndEvenProduct.exe
-C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\2014.10.18_6\6. Loops-Homework\10.OddAndEvenProduct\obj\Debug\10.OddAndEvenProduct.pdb

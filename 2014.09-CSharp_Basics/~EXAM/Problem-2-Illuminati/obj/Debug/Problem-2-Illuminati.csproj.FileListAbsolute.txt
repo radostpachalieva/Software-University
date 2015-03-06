@@ -1,6 +1,0 @@
-C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-2-Illuminati\bin\Debug\Problem-2-Illuminati.exe.config
-C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-2-Illuminati\bin\Debug\Problem-2-Illuminati.exe
-C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-2-Illuminati\bin\Debug\Problem-2-Illuminati.pdb
-C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-2-Illuminati\obj\Debug\Problem-2-Illuminati.csprojResolveAssemblyReference.cache
-C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-2-Illuminati\obj\Debug\Problem-2-Illuminati.exe
-C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-2-Illuminati\obj\Debug\Problem-2-Illuminati.pdb

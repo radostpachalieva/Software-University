@@ -1,9 +1,0 @@
-C:\Users\Radost\Dropbox\SoftUni\2014.09 - C# Basics\2014.10.11_5\6. Loops-Homework\04. PrintDeck52Cards\bin\Debug\_04.PrintDeck52Cards.exe.config
-C:\Users\Radost\Dropbox\SoftUni\2014.09 - C# Basics\2014.10.11_5\6. Loops-Homework\04. PrintDeck52Cards\bin\Debug\_04.PrintDeck52Cards.exe
-C:\Users\Radost\Dropbox\SoftUni\2014.09 - C# Basics\2014.10.11_5\6. Loops-Homework\04. PrintDeck52Cards\bin\Debug\_04.PrintDeck52Cards.pdb
-C:\Users\Radost\Dropbox\SoftUni\2014.09 - C# Basics\2014.10.11_5\6. Loops-Homework\04. PrintDeck52Cards\obj\Debug\04. PrintDeck52Cards.csprojResolveAssemblyReference.cache
-C:\Users\Radost\Dropbox\SoftUni\2014.09 - C# Basics\2014.10.11_5\6. Loops-Homework\04. PrintDeck52Cards\obj\Debug\_04.PrintDeck52Cards.exe
-C:\Users\Radost\Dropbox\SoftUni\2014.09 - C# Basics\2014.10.11_5\6. Loops-Homework\04. PrintDeck52Cards\obj\Debug\_04.PrintDeck52Cards.pdb
-C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\2014.10.18_6\6. Loops-Homework\04. PrintDeck52Cards\bin\Debug\_04.PrintDeck52Cards.exe.config
-C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\2014.10.18_6\6. Loops-Homework\04. PrintDeck52Cards\obj\Debug\_04.PrintDeck52Cards.exe
-C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\2014.10.18_6\6. Loops-Homework\04. PrintDeck52Cards\obj\Debug\_04.PrintDeck52Cards.pdb

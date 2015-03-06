@@ -1,6 +1,0 @@
-C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\2014.10.18_6\6. Loops-Homework\09. MatrixOfNumbers\bin\Debug\_09.MatrixOfNumbers.exe.config
-C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\2014.10.18_6\6. Loops-Homework\09. MatrixOfNumbers\bin\Debug\_09.MatrixOfNumbers.exe
-C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\2014.10.18_6\6. Loops-Homework\09. MatrixOfNumbers\bin\Debug\_09.MatrixOfNumbers.pdb
-C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\2014.10.18_6\6. Loops-Homework\09. MatrixOfNumbers\obj\Debug\09. MatrixOfNumbers.csprojResolveAssemblyReference.cache
-C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\2014.10.18_6\6. Loops-Homework\09. MatrixOfNumbers\obj\Debug\_09.MatrixOfNumbers.exe
-C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\2014.10.18_6\6. Loops-Homework\09. MatrixOfNumbers\obj\Debug\_09.MatrixOfNumbers.pdb

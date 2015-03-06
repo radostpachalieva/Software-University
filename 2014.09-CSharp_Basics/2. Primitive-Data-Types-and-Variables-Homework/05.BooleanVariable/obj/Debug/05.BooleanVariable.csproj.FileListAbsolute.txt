@@ -1,3 +1,0 @@
-C:\Users\Radost\Dropbox\WEB_DropBOX\SoftUni\2014.09 - C# Basics\2014.09.20_2\Primitive-Data-Types-and-Variables-Homework\05.BooleanVariable\bin\Debug\05.BooleanVariable.exe.config
-C:\Users\Radost\Dropbox\WEB_DropBOX\SoftUni\2014.09 - C# Basics\2014.09.20_2\2. Primitive-Data-Types-and-Variables-Homework\05.BooleanVariable\bin\Debug\05.BooleanVariable.exe.config
-C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\2014.09.20_2\2. Primitive-Data-Types-and-Variables-Homework\05.BooleanVariable\bin\Debug\05.BooleanVariable.exe.config

@@ -1,6 +1,0 @@
-C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-2-Odd-Even-Jumps\bin\Debug\Problem-2-Odd-Even-Jumps.exe.config
-C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-2-Odd-Even-Jumps\bin\Debug\Problem-2-Odd-Even-Jumps.exe
-C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-2-Odd-Even-Jumps\bin\Debug\Problem-2-Odd-Even-Jumps.pdb
-C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-2-Odd-Even-Jumps\obj\Debug\Problem-2-Odd-Even-Jumps.csprojResolveAssemblyReference.cache
-C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-2-Odd-Even-Jumps\obj\Debug\Problem-2-Odd-Even-Jumps.exe
-C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-2-Odd-Even-Jumps\obj\Debug\Problem-2-Odd-Even-Jumps.pdb

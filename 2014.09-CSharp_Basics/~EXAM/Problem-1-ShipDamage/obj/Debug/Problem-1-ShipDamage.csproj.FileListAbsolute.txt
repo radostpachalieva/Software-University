@@ -1,6 +1,0 @@
-C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-1-ShipDamage\bin\Debug\Problem-1-ShipDamage.exe.config
-C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-1-ShipDamage\bin\Debug\Problem-1-ShipDamage.exe
-C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-1-ShipDamage\bin\Debug\Problem-1-ShipDamage.pdb
-C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-1-ShipDamage\obj\Debug\Problem-1-ShipDamage.csprojResolveAssemblyReference.cache
-C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-1-ShipDamage\obj\Debug\Problem-1-ShipDamage.exe
-C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\Exams\~EXAM\Problem-1-ShipDamage\obj\Debug\Problem-1-ShipDamage.pdb

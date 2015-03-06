@@ -1,1 +1,0 @@
-C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\2014.10.18_6\6. Loops-Homework\19.  SpiralMatrix\bin\Debug\_19.SpiralMatrix.exe.config

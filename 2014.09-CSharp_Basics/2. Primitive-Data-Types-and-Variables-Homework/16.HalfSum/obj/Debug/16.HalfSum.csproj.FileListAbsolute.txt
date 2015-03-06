@@ -1,8 +1,0 @@
-C:\Users\Radost\Dropbox\WEB_DropBOX\SoftUni\2014.09 - C# Basics\2014.09.20-Lesson_2\Primitive-Data-Types-and-Variables-Homework\16.HalfSum\bin\Debug\16.HalfSum.exe.config
-C:\Users\Radost\Dropbox\WEB_DropBOX\SoftUni\2014.09 - C# Basics\2014.09.20_2\Primitive-Data-Types-and-Variables-Homework\16.HalfSum\bin\Debug\16.HalfSum.exe.config
-C:\Users\Radost\Dropbox\WEB_DropBOX\SoftUni\2014.09 - C# Basics\2014.09.20_2\2. Primitive-Data-Types-and-Variables-Homework\16.HalfSum\bin\Debug\16.HalfSum.exe.config
-C:\Users\Radost\Dropbox\WEB_DropBOX\SoftUni\2014.09 - C# Basics\2014.09.20_2\2. Primitive-Data-Types-and-Variables-Homework\16.HalfSum\bin\Debug\16.HalfSum.exe
-C:\Users\Radost\Dropbox\WEB_DropBOX\SoftUni\2014.09 - C# Basics\2014.09.20_2\2. Primitive-Data-Types-and-Variables-Homework\16.HalfSum\bin\Debug\16.HalfSum.pdb
-C:\Users\Radost\Dropbox\WEB_DropBOX\SoftUni\2014.09 - C# Basics\2014.09.20_2\2. Primitive-Data-Types-and-Variables-Homework\16.HalfSum\obj\Debug\16.HalfSum.csprojResolveAssemblyReference.cache
-C:\Users\Radost\Dropbox\WEB_DropBOX\SoftUni\2014.09 - C# Basics\2014.09.20_2\2. Primitive-Data-Types-and-Variables-Homework\16.HalfSum\obj\Debug\16.HalfSum.exe
-C:\Users\Radost\Dropbox\WEB_DropBOX\SoftUni\2014.09 - C# Basics\2014.09.20_2\2. Primitive-Data-Types-and-Variables-Homework\16.HalfSum\obj\Debug\16.HalfSum.pdb

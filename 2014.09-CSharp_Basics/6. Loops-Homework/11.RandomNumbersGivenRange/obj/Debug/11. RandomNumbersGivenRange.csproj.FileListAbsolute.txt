@@ -1,5 +1,0 @@
-C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\2014.10.18_6\6. Loops-Homework\11.RandomNumbersGivenRange\bin\Debug\11.RandomNumbersGivenRange.exe.config
-C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\2014.10.18_6\6. Loops-Homework\11.RandomNumbersGivenRange\bin\Debug\11.RandomNumbersGivenRange.exe
-C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\2014.10.18_6\6. Loops-Homework\11.RandomNumbersGivenRange\bin\Debug\11.RandomNumbersGivenRange.pdb
-C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\2014.10.18_6\6. Loops-Homework\11.RandomNumbersGivenRange\obj\Debug\11.RandomNumbersGivenRange.exe
-C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\2014.10.18_6\6. Loops-Homework\11.RandomNumbersGivenRange\obj\Debug\11.RandomNumbersGivenRange.pdb

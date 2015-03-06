@@ -1,1 +1,0 @@
-C:\Users\Radost\Desktop\7. CSharp-Advanced-Topics-Homework\7. CSharp-Advanced-Topics-Homework\01. FibonacciNumbers\bin\Debug\_01.FibonacciNumbers.exe.config

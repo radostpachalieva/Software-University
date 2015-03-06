@@ -1,1 +1,0 @@
-C:\Users\Radost\Desktop\7. CSharp-Advanced-Topics-Homework\7. CSharp-Advanced-Topics-Homework\14. LongestWord\bin\Debug\_14.LongestWord.exe.config

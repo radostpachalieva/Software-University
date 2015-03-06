@@ -1,1 +1,0 @@
-C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\2014.10.04_4\4. Console-Input-Output-Homework\02.PrintCompanyInformation\bin\Debug\02.PrintCompanyInformation.exe.config

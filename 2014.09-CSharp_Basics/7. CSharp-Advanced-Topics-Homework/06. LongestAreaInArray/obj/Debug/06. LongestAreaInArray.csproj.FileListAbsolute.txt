@@ -1,1 +1,0 @@
-C:\Users\Radost\Desktop\7. CSharp-Advanced-Topics-Homework\7. CSharp-Advanced-Topics-Homework\06. LongestAreaInArray\bin\Debug\_06.LongestAreaInArray.exe.config

@@ -1,1 +1,0 @@
-C:\Users\Radost\Dropbox\SoftUni\C# Basics (Sept 2014)\2014.10.11_5\5. Conditional-Statements-Homework\11.NumberAsWords\bin\Debug\11.NumberAsWords.exe.config

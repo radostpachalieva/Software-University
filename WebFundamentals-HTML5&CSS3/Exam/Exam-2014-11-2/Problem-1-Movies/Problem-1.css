@@ -1,0 +1,79 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*Constraints*/
+/*•	Font: Helvetica / Tahoma / sans-serif (size: 16px for the text, 12px for the genre).*/
+/*•	Column width: 160px.*/
+/*•	The site should open correctly in Chrome 38.*/
+/*•	Responsive design is not required.*/
+/*•	Pixel-perfect implementation is not required.*/
+
+section{
+    margin: 2% 5%;
+    font-family: Helvetica, Tahoma, sans-serif;
+    font-size: 16px;
+}
+
+section>div{
+    display: inline-block;
+    width: 160px;
+    vertical-align: top;
+}
+
+section>div>div{
+    border: solid 1px #000000;
+    margin: 0;
+    padding: 0;
+    height: 180px;
+    overflow: hidden;
+}
+
+section>div>div:hover{
+    background-color: #830202;
+}
+
+section>div>div>img{
+    width: 80%;
+    margin: 0 10%;
+    padding: 0;
+}
+
+h2{
+    height: 56px;
+    padding: 4% 0;
+    font-size: 16px;
+}
+
+a{
+    color: #0D2B88;
+    text-decoration: underline;
+}
+
+h2>a:hover{
+    color: #830202;
+}
+
+section>div>img{
+    padding: 3%;
+    border-radius: 3px;
+    margin-top: 2%;
+    border: solid 1px black;
+}
+
+section>div>img:hover{
+    background-color: red;
+}
+
+p{
+    display: inline-block;
+    font-size: 12px;
+    line-height: 28px;
+    vertical-align: top;
+}
+
+img:hover{
+    cursor: pointer;
+}

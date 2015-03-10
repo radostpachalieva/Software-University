@@ -1,0 +1,124 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*•	Main container should be in the center of the Web page.*/
+/*•	The background image should cover the entire Web page. */
+body{
+    background-image: url("resources/backgroundImage.jpg");
+    background-size: cover;
+    font-family: Tahoma, Helvetica, sans-serif; /*•	Main font: Tahoma, Helvetica, sans-serif.*/
+}
+
+header>h1{
+    display: block;
+    width: 46%;
+    margin: 0 auto;
+    padding-top: 12%;
+    border-bottom: solid 1px #DEB888;
+    color: #ffffff;
+    text-align: center;
+    font-weight: normal;
+}
+/*----------------- FORM -------------------*/
+/*•	Main container for both forms must be 530 x 350px.*/
+form{
+    width: 530px;
+    height: 350px;
+    margin: 1% auto;
+}
+
+fieldset{
+    display: block;
+    float: left;
+    width: 48%;
+    background-color: rgba(104,30,24,0.8);
+    border-radius: 14px;
+    border: none;
+    padding: 2%;
+}
+
+fieldset:last-of-type{
+    float: right;
+}
+
+fieldset>h2{
+    color: #DEB888;
+    font-weight: normal;
+    text-align: center;
+    margin-bottom: 4%;
+}
+
+fieldset>div{
+    display: block;
+    clear: both;
+
+}
+
+fieldset>div>span{
+    display: inline-block;
+    float: left;
+    width: 36px;
+    height: 36px;
+    background-color: rgba(95,58,43,0.8);
+    border-radius: 6px 0 0 6px;
+    margin: 1% 0;
+    padding: 2%;
+}
+
+fieldset>div>span>img{
+    width: 26px;
+    height: 26px;
+    margin: auto auto;
+}
+
+fieldset>div:hover span{
+    background-color: rgba(100,40,13,0.8);
+}
+
+input[type="text"]{
+    display: inline-block;
+    float: left;
+    width: 83%;
+    height: 36px;
+    border-radius: 0 6px 6px 0;
+    border: solid 1px #CCCCCC;
+    margin: 1% 0;
+    padding: 1% 6%;
+}
+
+input[type="text"]:hover{
+    border: solid 1px #67AFE9;
+}
+
+button{
+    display: inline-block;
+    width: 100%;
+    height: 36px;
+    background-color: rgba(58,147,100,0.4);
+    color: #DEB888;
+    border-radius: 6px;
+    border: none;
+    margin: 1% 0;
+    padding: 1% 6%;
+    font-size: 1.2rem;
+}
+
+button:hover{
+    background-color: #4B5B0A;
+}
+
+button>img{
+    height: 20px;
+    width: 20px;
+}
+
+
+
+
+/*background-image: url(...);*/
+/*background-repeat: no-repeat;*/
+/*background-position: <left|right>;*/
+/*padding-<left|right>: <width of image>px;*/

@@ -1,0 +1,137 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Tahoma, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+/*Constraints*/
+/*•	Fonts:*/
+/*o	Site content: Tahoma, Helvetica, sans-serif; 14px.*/
+/*•	Site content: fixed width 1000px.*/
+/*•	The site should open correctly in Chrome 35+.*/
+/*•	Responsive design is not required.*/
+/*•	Pixel-perfect implementation is not required. */
+/*•	Take the colors from the pictures with color picker.*/
+
+main{
+    width: 1000px;
+    margin-left: 2%;
+}
+
+body>main>nav>ul{
+    list-style-type: none;
+    display: flex;
+}
+
+body>main>nav>ul>li{
+    display: inline-block;
+    width: 200px;
+    padding: 2% 1%;
+    background-color: #394553;
+}
+
+
+body>main>nav>ul>li>a{
+    color: #ffffff;
+    text-decoration: none;
+}
+
+body>main>nav>ul>li:first-of-type{
+    background-color: #3CBC97;
+    font-weight: bold;
+}
+
+/*----------- pictures offf -----------*/
+.pic-one{
+    width: 30px;
+    height: 18px;
+    background-position: center;
+    background-image: url("resources/03-tab01.png");
+    background-repeat: no-repeat;
+}
+
+.pic-two{
+    width: 30px;
+    height: 18px;
+    background-position: center;
+    background-image: url("resources/03-tab02.png");
+    background-repeat: no-repeat;
+}
+
+.pic-tree{
+    width: 30px;
+    height: 19px;
+    background-position: center;
+    background-image: url("resources/03-tab03.png");
+    background-repeat: no-repeat;
+}
+
+.pic-four{
+    width: 30px;
+    height: 18px;
+    background-position: center;
+    background-image: url("resources/03-tab04.png");
+    background-repeat: no-repeat;
+}
+
+/*----------------- FORM ----------------*/
+form{
+    background-color: #EEEEEE;
+}
+
+fieldset{
+    border: none;
+    padding: 3%;
+}
+
+fieldset:last-of-type{
+    padding-top: 0;
+
+}
+
+form>fieldset>div{
+    display: inline-block;
+    width: 230px;
+}
+
+form>fieldset>div>label{
+    display: block;
+    margin: 4% 0;
+    color: #394553;
+    font-weight: bold;
+}
+
+input{
+    color: #CCCCCC;
+    border: solid 1px #CCCCCC;
+}
+
+input[type="text"]{
+    padding: 5%;
+    font-family: Tahoma, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+input[type="date"]{
+    padding: 3%;
+    font-family: Tahoma, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+input[type="button"]{
+    width: 190px;
+    padding: 11px 0;
+    font-family: Tahoma, Helvetica, sans-serif;
+    font-size: 14px;
+    border: none;
+    border-radius: 3px;
+    background-color: #3CBC97;
+    color: #ffffff;
+}
+
+input[type="button"]:hover{
+    background-color: #394553;
+    cursor: pointer;
+}

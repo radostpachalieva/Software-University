@@ -1,0 +1,102 @@
+@import url(http://fonts.googleapis.com/css?family=Lemon);
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Lemon', cursive;
+}
+
+.wrap{
+    width: 1000px;
+    background-color: #602D75;
+    margin: 0 auto;
+    padding: 40px;
+}
+
+.sub-wrap{
+    width:  900px;
+    background-color: #FFAE33;
+    border-radius: 18px;
+    margin: 0 20px;
+    padding: 10px 30px;
+}
+
+section>h1{
+    font-size: 22px;
+    text-align: center;
+}
+
+.cont{
+    padding: 10px 30px;
+}
+
+.store{
+    display: inline-block;
+    width: 220px;
+    margin: 0 20px;
+    text-align: center;
+    font-size: 15px;
+    background-color: #602257;
+    border-radius: 30px 12px;
+    padding: 4px;
+    color: #ffffff;
+}
+
+.store h3{
+    color: #FFC351;
+}
+
+.store img{
+    width: 190px;
+    height: 190px;
+    border: solid 5px #816772;
+    border-radius: 50%;
+    margin: 10px auto;
+}
+
+.store img:hover{
+    border: solid 5px #FA5002;
+    cursor: pointer;
+}
+
+article>p{
+    text-align: left;
+    padding-left: 6px;
+    padding-bottom: 2px;
+}
+
+article>h2{
+    font-size: 22px;
+}
+
+input[type="button"] {
+    display: block;
+    width: 96%;
+    margin: 4px auto;
+    font-size: 15px;
+    font-family: 'Lemon', cursive;
+    border-radius: 10px;
+    background-color: #ffffff;
+    color: #9F4BFF;
+}
+
+input[type="button"]:hover {
+    color: #000000;
+    cursor: pointer;
+}
+
+/*Constraints*/
+/*•	Font: Lemon-Regular / Arial*/
+/*•	Font size: 24px for the main title, 22px for price of watches, 15px for info of the watches, 15px for the buttons.*/
+/*•	Container width: 1000px.*/
+/*•	Watches container width:  900px.*/
+/*•	Columns width: 220px.*/
+/*•	Spacing between columns: 20px.*/
+/*•	The site should open correctly in Chrome 35.*/
+/*•	Responsive design is not required.*/
+/*•	Pixel-perfect implementation is not required.*/
+
+

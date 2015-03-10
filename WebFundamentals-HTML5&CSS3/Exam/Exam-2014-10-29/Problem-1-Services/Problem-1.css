@@ -1,0 +1,52 @@
+/*Constraints*/
+/*•	The font in the entire page is OpenSans-ExtraBold / Helvetica / sans-serif
+(size: 56px for the main heading, 16px for the buttons).*/
+/*•	Column width: 220px with all margins + paddings.*/
+/*•	The site should open correctly in Chrome 38 and above.*/
+/*•	Responsive design is not required.*/
+/*•	Pixel-perfect implementation is not required.*/
+
+/*@font-face {*/
+    /*font-family: OpenSans-ExtraBold;*/
+    /*scr: url("OpenSans-ExtraBold.ttf");*/
+/*}*/
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,800);
+
+*{
+    box-sizing: border-box;
+    text-align: center;
+}
+
+body{
+    background-color: #F0F0E8;
+    font-family: 'Open Sans', Helvetica, sans-serif;
+    color: #808388;
+}
+
+header>h1{
+    font-size: 56px;
+    color: #029389;
+}
+
+header>h2,
+header>h3{
+    font-weight: normal;
+}
+
+article{
+    display: inline-block;
+    box-sizing: border-box;
+    width: 220px;
+    border-left: solid 10px #F0F0E8;
+}
+
+article:hover{
+    background-color: #F6F6F5;
+    border-left: solid 10px #029389;
+    cursor: pointer;
+}
+
+article>p{
+    font-size: 16px;
+    line-height: 40px;
+}

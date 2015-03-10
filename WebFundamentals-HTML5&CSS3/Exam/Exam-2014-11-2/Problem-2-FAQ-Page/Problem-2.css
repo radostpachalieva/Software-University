@@ -1,0 +1,131 @@
+@import url(http://fonts.googleapis.com/css?family=Lobster);
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Open-sans, sans-serif;
+}
+
+/*Constraints*/
+/*•	Font: Open-sans / sans-serif.*/
+/*•	Site content: fixed width 920px.*/
+/*•	Header and footer: fixed width 920px.*/
+/*•	Header and footer background: fluid width.*/
+/*•	The site should open correctly in Chrome 38.*/
+/*•	Responsive design is not required.*/
+/*•	Pixel-perfect implementation is not required.*/
+
+
+
+body{
+    background-color: #F3F3F5;
+}
+
+body>header>h1{
+    display: inline-block;
+    font-family: Lobster, cursive;
+    font-size: 3rem;
+    padding: 1%;
+    margin: 17% auto auto 53%;
+    background-color: rgba(66,66,66,.9);
+    color: #ffffff;
+}
+
+/*---------------- HEADER -------------------*/
+header{
+    background: url("got-dolls.jpg") no-repeat center, url("bgr.jpg") repeat-x;
+    height: 350px;
+}
+
+/*------------------- CONTENT ----------------*/
+.content{
+    display: block;
+    width: 920px;
+    /*height: 820px;*/
+    margin: 0 auto;
+    padding: 1% 0;
+}
+
+/*------------- ASIDE ------------------*/
+aside{
+    display: inline-block;
+    width: 25%;
+    margin-right: 1%;
+    vertical-align: top;
+}
+aside nav{
+    max-width: 100%;
+}
+nav ul {
+    margin: 0 0 5% 0;
+}
+nav ul li{
+    list-style: none;
+    background-color: #4F545A;
+    padding: 9%;
+    border-bottom: solid 1px #545A60;
+    border-left: solid 4px #4F545A;
+    color: #ffffff;
+}
+nav ul li:hover {
+    border-left: solid 4px #306E6D;
+    background-color: #5E6268;
+    cursor: pointer;
+}
+nav ul li:first-of-type{
+    border-left: solid 4px #306E6D;
+    background-color: #43474C;
+}
+nav ul:hover li:first-of-type{
+    border-left: solid 4px #24DBA6;
+
+}
+aside img{
+    max-width: 100%;
+}
+
+/*-------------- MAIN -----------------*/
+main{
+    display: inline-block;
+    width: 73%;
+    vertical-align: top;
+}
+main section{
+    background-color: #ffffff;
+    border-top: solid 3px #BBBABF;
+    padding: 0 3% 3% 3%;
+    margin-bottom: 2%;
+}
+main h2{
+    color: #BBBABF;
+    text-transform: uppercase;
+    font-size: 1rem;
+    margin: 3% 0;
+}
+main h3{
+    color: #0202EE;
+    font-size: 1.4rem;
+    margin: 1% 0;
+    cursor: pointer;
+}
+p{
+    color: #5B6A77;
+}
+
+/*----------------FOOTER -----------------*/
+
+footer{
+    display: block;
+    width: 100%;
+    height: 200px;
+    background-color: #BBBABF;
+    vertical-align: bottom;
+
+}
+footer>p{
+    width: 920px;
+    padding-top: 2%;
+    margin: 1% auto;
+    font-weight: normal;
+}

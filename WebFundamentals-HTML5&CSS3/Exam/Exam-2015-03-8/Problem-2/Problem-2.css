@@ -1,0 +1,227 @@
+/* latin-ext */
+@font-face {
+    font-family: 'Oleo Script';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Oleo Script'), local('OleoScript-Regular'), url(http://fonts.gstatic.com/s/oleoscript/v5/_weQNDK6Uf40CiGFKBBUjiYE0-AqJ3nfInTTiDXDjU4.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+    font-family: 'Oleo Script';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Oleo Script'), local('OleoScript-Regular'), url(http://fonts.gstatic.com/s/oleoscript/v5/_weQNDK6Uf40CiGFKBBUjo4P5ICox8Kq3LLUNMylGO4.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*Constraints*/
+/*•	Fonts:*/
+/*o	Site content: Calibri, Arial, sans-serif; 12px.*/
+/*o	Header title (68px), Main article title (48px) and quote:
+http://fonts.googleapis.com/css?family=Oleo+Script*/
+/*o	Navigation font size: 18px;*/
+/*o	Subtitles font size: 26px;*/
+/*•	Site content: fixed width 1000px.*/
+/*•	The site should open correctly in Chrome 35+.*/
+/*•	Responsive design is not required.*/
+/*•	Pixel-perfect implementation is not required. */
+/*•	Take the colors from the pictures with color picker.*/
+
+body{
+    background-color: #51267E;
+}
+
+.wrap{
+    width: 1000px;
+    margin: 0 auto;
+    font-family: Calibri, Arial, sans-serif;
+    font-size: 12px;
+}
+
+body>.wrap>header{
+    height: 240px;
+    background: url("resources/orion-gas-and-star-bgr.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #ffffff;
+    text-align: center;
+    border-bottom: solid 8px #37A5D5;
+}
+
+body>.wrap>header>h1{
+    font-family: 'Oleo Script';
+    font-size: 68px;
+/*===== PROBLEM WITH MARGIN PADDING THE SUBHEADER ======*/
+}
+
+body>.wrap>header>h3{
+    font-size: 26px;
+    font-weight: 100;
+}
+
+nav>ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    margin: 3% auto 2% auto;
+}
+
+nav>ul>li{
+    display: inline-block;
+    padding: 1% 3%;
+    margin: 1%;
+    background-color: #FFFFFF;
+    cursor: pointer;
+}
+
+nav>ul>li>a{
+    text-decoration: none;
+    color: #51267E;
+    font-size: 18px;
+}
+
+nav>ul>li:hover{
+    background-color: #37A5D5;
+}
+
+nav>ul>li:hover a{
+    color: #ffffff;
+    /*===== yes weee! batman! very happy =====*/
+}
+
+/*------------- MAIN ---------------*/
+main{
+    display: flex;
+    justify-content: space-between;
+    background-color: #EAE7EE;
+    margin: 2% auto 0 auto;
+    border-top: solid 8px #875BB3;
+    border-bottom: solid 8px #37A5D5;
+    padding-bottom: 12%;
+    padding-left: 3%;
+    padding-top: 3%;
+}
+
+section{
+    width: 49%;
+    background-color: #ffffff;
+    height: 380px;
+}
+
+section>article>header{
+    display: inline-block;
+    padding: 3% 0 0 3%;
+    height: 130px;
+}
+
+section>article>header>h2{
+    font-family: 'Oleo Script';
+    font-size: 48px;
+    margin: 8% auto 0 5%;
+    display: inline;
+}
+
+/*===== SOME PROB WITH DA SPACE BETWEEN H2 AND H3 =====*/
+section>article>header>h3{
+    font-size: 26px;
+    font-weight: 400;
+    margin: 0 5% 5% 5%;
+    padding: 0;
+}
+
+section:first-of-type p{
+    margin: 0 5% 5% 5%;
+    font-family: Calibri, Arial, sans-serif;
+    font-size: 12px;
+}
+
+article>p>span{
+    font-family: 'Oleo Script';
+    font-size: 14px;
+    line-height: 14px;
+}
+
+article>p>span:before{
+    content: "\2002";
+}
+
+section>article>a{
+    display: inline;
+    float: right;
+    padding: 10px 20px;
+    margin: 0;
+    background-color: #36A4D6;
+    border: none;
+    color: #ffffff;
+    cursor: pointer;
+}
+
+section:first-of-type a:last-of-type{
+    background-color: #51267E;
+    clear: both;
+}
+
+/*------------- SECTION GALLERY ------------*/
+section:last-of-type{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    background: none;
+    padding-right:3%;
+    padding-left: 1%;
+}
+
+section:last-of-type article{
+    width: 47%;
+    background-color: #FFFFFF;
+    margin-bottom: 4%;
+    padding-bottom: 2%;
+}
+section:last-of-type>article>.first{
+    background-image: url("resources/02-pic1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+section:last-of-type>article>.second{
+    background-image: url("resources/02-pic2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+section:last-of-type article>.third {
+    background-image: url("resources/02-pic3.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+section:last-of-type>article>.fourth{
+    background-image: url("resources/02-pic4.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+section:last-of-type>article div{
+    height: 160px;
+    width: 100%;
+}
+
+section:last-of-type>article>h3{
+    color: #36A4D6;
+    margin: 2% 7%;
+}
+
+section:last-of-type>article>p{
+    margin: 2% 7%;
+
+}
+/*------------ FOOTER ----------*/
+footer>p{
+    padding: 2% 1%;
+    color: #ffffff;
+}

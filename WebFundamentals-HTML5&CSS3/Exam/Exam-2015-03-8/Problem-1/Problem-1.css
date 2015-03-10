@@ -1,0 +1,92 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*Constraints*/
+/*•	Fonts:*/
+/*o	Site content: Arial, Helvetica, sans-serif; 12px.*/
+/*o	Link Read More: 10px.*/
+/*•	Site content: fixed width 800px.*/
+/*•	The site should open correctly in Chrome 35+.*/
+/*•	Responsive design is not required.*/
+/*•	Pixel-perfect implementation is not required.*/
+/*•	Take the colors from the pictures with color picker.*/
+
+main{
+    width: 800px;
+    margin: 1%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+header{
+    background-color: #DDDDDD;
+    border-radius: 18px;
+    height: 60px;
+    padding: 2%;
+}
+header>h1{
+    text-align: center;
+    color: #9571DC;
+    text-shadow: 2px 2px 2px #ffffff;
+}
+
+section{
+    margin: 1% auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+article{
+    display: inline-block;
+    width: 24%;
+    background-color: #EEEEEE;
+    border-radius: 18px;
+    padding: 1%;
+}
+
+article>div{
+    width: 180px;
+    height: 180px;
+    border-radius: 100%;
+    font-size: 4rem;
+    color: #EFEEEC;
+    background-color:#9571DC;
+    text-align: center;
+    padding: 15%;
+}
+
+article>div:hover{
+    background-color: #FFFFFF;
+    cursor: pointer;
+    color: #9473DB;
+}
+
+article p{
+    color: #B4ADA8;
+    text-align: center;
+    margin: 10% auto;
+}
+
+
+input[type="button"]{
+    background-color: #DDDDDD;
+    border-radius: 8px;
+    border: none;
+    color: #6A646E;
+    text-align: center;
+    padding: 6% 10%;
+    width: 100%;
+    font-size: 10px;
+    text-shadow: 2px 2px 1px #ffffff;
+}
+
+input[type="button"]:hover{
+    background-color: #FFFFFF;
+    cursor: pointer;
+}
+
+
+
